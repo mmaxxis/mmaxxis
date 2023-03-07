@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mmaxxis
 - 👀 I’m interested in java, python and big data techniques.
-- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on new startup ideas
 - 📫 How to reach me mmaxxis@yahoo.com
 
