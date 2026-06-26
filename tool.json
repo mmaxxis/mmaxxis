@@ -1,0 +1,12 @@
+{
+  "type": "dtmf",
+  "function": {
+    "name": "capture_keypad_choice",
+    "description": "Listen for the caller pressing keypad digits (DTMF) so we can map 1-8 to a pet choice.",
+    "parameters": {
+      "type": "object",
+      "properties": {},
+      "required": []
+    }
+  }
+}
